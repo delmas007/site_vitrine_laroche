@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "pinwheel-tailwind is a free and open-source Tailwind CSS template for building modern landing pages.",
   "author": "themefisher",
-  "license": "MIT",
   "scripts": {
     "dev": "gulp dev",
     "build": "gulp build",
