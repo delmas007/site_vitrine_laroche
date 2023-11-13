@@ -1,8 +1,7 @@
 {
-  "name": "pinwheel-tailwind",
+  "name": "Goupe-laroche",
   "version": "1.0.0",
-  "description": "pinwheel-tailwind is a free and open-source Tailwind CSS template for building modern landing pages.",
-  "author": "themefisher",
+  "author": "Groupe Laroche",
   "scripts": {
     "dev": "gulp dev",
     "build": "gulp build",
